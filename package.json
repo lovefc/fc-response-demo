@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "fc-response": "^0.0.1",
+    "fc-route": "^0.0.8"
+  }
+}
